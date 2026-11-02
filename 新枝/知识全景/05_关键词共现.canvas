@@ -1,0 +1,576 @@
+{
+  "nodes": [
+    {
+      "id": "legend",
+      "type": "text",
+      "text": "# 文章知识全景\n\n643 篇 · 15 个主题 + 待核查\n\n横向：扩展视野、比较框架\n纵向：深入一个问题\n深度：独立评估，D3 为候选\n\n[[新枝/知识全景/00_知识全景|使用说明]] · [[新枝/知识全景/02_文章分类.base|筛选全部文章]]",
+      "x": 0,
+      "y": -390,
+      "width": 1000,
+      "height": 290,
+      "color": "5"
+    },
+    {
+      "id": "t01",
+      "type": "text",
+      "text": "# Agent架构与设计\n\n52 篇 · 19 篇深度候选\n\n[[新枝/知识全景/主题/Agent架构与设计|展开文章]]\n\n横向 2 · 纵向 46 · 横纵结合 4",
+      "x": 0,
+      "y": 0,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t02",
+      "type": "text",
+      "text": "# Context · Memory · Skills · Prompt\n\n36 篇 · 12 篇深度候选\n\n[[新枝/知识全景/主题/Context · Memory · Skills · Prompt|展开文章]]\n\n横向 5 · 纵向 30 · 横纵结合 0",
+      "x": 510,
+      "y": 0,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t03",
+      "type": "text",
+      "text": "# MCP与工具生态\n\n20 篇 · 3 篇深度候选\n\n[[新枝/知识全景/主题/MCP与工具生态|展开文章]]\n\n横向 0 · 纵向 20 · 横纵结合 0",
+      "x": 1020,
+      "y": 0,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t04",
+      "type": "text",
+      "text": "# Multi-Agent\n\n10 篇 · 4 篇深度候选\n\n[[新枝/知识全景/主题/Multi-Agent|展开文章]]\n\n横向 0 · 纵向 10 · 横纵结合 0",
+      "x": 1530,
+      "y": 0,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t05",
+      "type": "text",
+      "text": "# Harness · ClaudeCode · AICoding\n\n53 篇 · 27 篇深度候选\n\n[[新枝/知识全景/主题/Harness · ClaudeCode · AICoding|展开文章]]\n\n横向 0 · 纵向 53 · 横纵结合 0",
+      "x": 2040,
+      "y": 0,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t06",
+      "type": "text",
+      "text": "# Agent评估与可观测\n\n36 篇 · 10 篇深度候选\n\n[[新枝/知识全景/主题/Agent评估与可观测|展开文章]]\n\n横向 0 · 纵向 36 · 横纵结合 0",
+      "x": 0,
+      "y": 360,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t07",
+      "type": "text",
+      "text": "# RAG与检索\n\n17 篇 · 6 篇深度候选\n\n[[新枝/知识全景/主题/RAG与检索|展开文章]]\n\n横向 1 · 纵向 15 · 横纵结合 1",
+      "x": 510,
+      "y": 360,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t08",
+      "type": "text",
+      "text": "# LLM · 模型 · 推理 · 训练\n\n31 篇 · 11 篇深度候选\n\n[[新枝/知识全景/主题/LLM · 模型 · 推理 · 训练|展开文章]]\n\n横向 3 · 纵向 26 · 横纵结合 1",
+      "x": 1020,
+      "y": 360,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t09",
+      "type": "text",
+      "text": "# AI · Infra · AIOps · SRE\n\n22 篇 · 4 篇深度候选\n\n[[新枝/知识全景/主题/AI · Infra · AIOps · SRE|展开文章]]\n\n横向 3 · 纵向 18 · 横纵结合 0",
+      "x": 1530,
+      "y": 360,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t11",
+      "type": "text",
+      "text": "# 软件工程 · 架构 · 后端\n\n49 篇 · 10 篇深度候选\n\n[[新枝/知识全景/主题/软件工程 · 架构 · 后端|展开文章]]\n\n横向 0 · 纵向 49 · 横纵结合 0",
+      "x": 2040,
+      "y": 360,
+      "width": 430,
+      "height": 270,
+      "color": "4"
+    },
+    {
+      "id": "t10",
+      "type": "text",
+      "text": "# AI趋势 · 行业 · 商业\n\n42 篇 · 9 篇深度候选\n\n[[新枝/知识全景/主题/AI趋势 · 行业 · 商业|展开文章]]\n\n横向 40 · 纵向 2 · 横纵结合 0",
+      "x": 0,
+      "y": 800,
+      "width": 430,
+      "height": 270,
+      "color": "2"
+    },
+    {
+      "id": "t12",
+      "type": "text",
+      "text": "# 职业 · 职场 · 求职\n\n75 篇 · 12 篇深度候选\n\n[[新枝/知识全景/主题/职业 · 职场 · 求职|展开文章]]\n\n横向 7 · 纵向 67 · 横纵结合 0",
+      "x": 510,
+      "y": 800,
+      "width": 430,
+      "height": 270,
+      "color": "2"
+    },
+    {
+      "id": "t13",
+      "type": "text",
+      "text": "# 成长 · 方法 · 效率 · 表达\n\n68 篇 · 5 篇深度候选\n\n[[新枝/知识全景/主题/成长 · 方法 · 效率 · 表达|展开文章]]\n\n横向 9 · 纵向 58 · 横纵结合 0",
+      "x": 1020,
+      "y": 800,
+      "width": 430,
+      "height": 270,
+      "color": "2"
+    },
+    {
+      "id": "t14",
+      "type": "text",
+      "text": "# 人文 · 阅读 · 生活\n\n39 篇 · 1 篇深度候选\n\n[[新枝/知识全景/主题/人文 · 阅读 · 生活|展开文章]]\n\n横向 10 · 纵向 29 · 横纵结合 0",
+      "x": 1530,
+      "y": 800,
+      "width": 430,
+      "height": 270,
+      "color": "2"
+    },
+    {
+      "id": "t15",
+      "type": "text",
+      "text": "# 网页索引与碎片\n\n65 篇 · 1 篇深度候选\n\n[[新枝/知识全景/主题/网页索引与碎片|展开文章]]\n\n横向 46 · 纵向 3 · 横纵结合 0",
+      "x": 2040,
+      "y": 800,
+      "width": 430,
+      "height": 270,
+      "color": "2"
+    },
+    {
+      "id": "t99",
+      "type": "text",
+      "text": "# 待核查\n\n28 篇 · 0 篇深度候选\n\n[[新枝/知识全景/主题/待核查|展开文章]]\n\n横向 0 · 纵向 0 · 横纵结合 0",
+      "x": 0,
+      "y": 1600,
+      "width": 430,
+      "height": 270,
+      "color": "1"
+    },
+    {
+      "id": "k0",
+      "type": "text",
+      "text": "# Agent架构\n\n206 篇 · 跨 14 个主题\n\n[[新枝/知识全景/关键词/Agent架构|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 0,
+      "y": 2000,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k1",
+      "type": "text",
+      "text": "# 效率与习惯\n\n168 篇 · 跨 15 个主题\n\n[[新枝/知识全景/关键词/效率与习惯|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 510,
+      "y": 2000,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k2",
+      "type": "text",
+      "text": "# 上下文工程\n\n131 篇 · 跨 13 个主题\n\n[[新枝/知识全景/关键词/上下文工程|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 1020,
+      "y": 2000,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k3",
+      "type": "text",
+      "text": "# 表达与写作\n\n117 篇 · 跨 14 个主题\n\n[[新枝/知识全景/关键词/表达与写作|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 1530,
+      "y": 2000,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k4",
+      "type": "text",
+      "text": "# 系统设计\n\n105 篇 · 跨 13 个主题\n\n[[新枝/知识全景/关键词/系统设计|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 2040,
+      "y": 2000,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k5",
+      "type": "text",
+      "text": "# 职业发展\n\n101 篇 · 跨 12 个主题\n\n[[新枝/知识全景/关键词/职业发展|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 0,
+      "y": 2340,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k6",
+      "type": "text",
+      "text": "# 评估\n\n97 篇 · 跨 15 个主题\n\n[[新枝/知识全景/关键词/评估|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 510,
+      "y": 2340,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k7",
+      "type": "text",
+      "text": "# Prompt\n\n91 篇 · 跨 12 个主题\n\n[[新枝/知识全景/关键词/Prompt|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 1020,
+      "y": 2340,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k8",
+      "type": "text",
+      "text": "# 学习与知识管理\n\n83 篇 · 跨 10 个主题\n\n[[新枝/知识全景/关键词/学习与知识管理|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 1530,
+      "y": 2340,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    },
+    {
+      "id": "k9",
+      "type": "text",
+      "text": "# 可靠性\n\n81 篇 · 跨 11 个主题\n\n[[新枝/知识全景/关键词/可靠性|查看关联文章]]\n\n连线标注同时属于该主题与关键词的篇数。",
+      "x": 2040,
+      "y": 2340,
+      "width": 430,
+      "height": 270,
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e0-01",
+      "fromNode": "t01",
+      "fromSide": "bottom",
+      "toNode": "k0",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "45 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e0-05",
+      "fromNode": "t05",
+      "fromSide": "bottom",
+      "toNode": "k0",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "39 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e0-02",
+      "fromNode": "t02",
+      "fromSide": "bottom",
+      "toNode": "k0",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "26 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e1-13",
+      "fromNode": "t13",
+      "fromSide": "bottom",
+      "toNode": "k1",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "32 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e1-12",
+      "fromNode": "t12",
+      "fromSide": "bottom",
+      "toNode": "k1",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "28 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e1-11",
+      "fromNode": "t11",
+      "fromSide": "bottom",
+      "toNode": "k1",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "18 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e2-05",
+      "fromNode": "t05",
+      "fromSide": "bottom",
+      "toNode": "k2",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "26 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e2-01",
+      "fromNode": "t01",
+      "fromSide": "bottom",
+      "toNode": "k2",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "25 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e2-02",
+      "fromNode": "t02",
+      "fromSide": "bottom",
+      "toNode": "k2",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "22 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e3-12",
+      "fromNode": "t12",
+      "fromSide": "bottom",
+      "toNode": "k3",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "29 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e3-13",
+      "fromNode": "t13",
+      "fromSide": "bottom",
+      "toNode": "k3",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "25 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e3-14",
+      "fromNode": "t14",
+      "fromSide": "bottom",
+      "toNode": "k3",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "15 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e4-11",
+      "fromNode": "t11",
+      "fromSide": "bottom",
+      "toNode": "k4",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "33 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e4-01",
+      "fromNode": "t01",
+      "fromSide": "bottom",
+      "toNode": "k4",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "16 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e4-12",
+      "fromNode": "t12",
+      "fromSide": "bottom",
+      "toNode": "k4",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "15 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e5-12",
+      "fromNode": "t12",
+      "fromSide": "bottom",
+      "toNode": "k5",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "51 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e5-10",
+      "fromNode": "t10",
+      "fromSide": "bottom",
+      "toNode": "k5",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "12 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e5-11",
+      "fromNode": "t11",
+      "fromSide": "bottom",
+      "toNode": "k5",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "9 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e6-06",
+      "fromNode": "t06",
+      "fromSide": "bottom",
+      "toNode": "k6",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "21 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e6-01",
+      "fromNode": "t01",
+      "fromSide": "bottom",
+      "toNode": "k6",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "15 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e6-05",
+      "fromNode": "t05",
+      "fromSide": "bottom",
+      "toNode": "k6",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "13 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e7-01",
+      "fromNode": "t01",
+      "fromSide": "bottom",
+      "toNode": "k7",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "17 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e7-05",
+      "fromNode": "t05",
+      "fromSide": "bottom",
+      "toNode": "k7",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "16 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e7-02",
+      "fromNode": "t02",
+      "fromSide": "bottom",
+      "toNode": "k7",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "15 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e8-13",
+      "fromNode": "t13",
+      "fromSide": "bottom",
+      "toNode": "k8",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "31 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e8-14",
+      "fromNode": "t14",
+      "fromSide": "bottom",
+      "toNode": "k8",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "13 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e8-12",
+      "fromNode": "t12",
+      "fromSide": "bottom",
+      "toNode": "k8",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "10 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e9-11",
+      "fromNode": "t11",
+      "fromSide": "bottom",
+      "toNode": "k9",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "21 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e9-12",
+      "fromNode": "t12",
+      "fromSide": "bottom",
+      "toNode": "k9",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "12 篇共现",
+      "color": "6"
+    },
+    {
+      "id": "e9-05",
+      "fromNode": "t05",
+      "fromSide": "bottom",
+      "toNode": "k9",
+      "toSide": "top",
+      "toEnd": "none",
+      "label": "9 篇共现",
+      "color": "6"
+    }
+  ]
+}

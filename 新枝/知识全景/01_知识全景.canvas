@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"overview","type":"text","text":"# 文章知识全景 · 643 篇\n\n方向：横向拓展 / 纵向钻研 / 横纵结合　｜　深度：D0—D3 独立初评\n\n[[新枝/知识全景/02_文章分类.base|筛选全部文章]] · [[新枝/知识全景/05_关键词共现.canvas|展开关键词共现图]] · [[新枝/知识全景/04_分类规则|分类口径]]","x":0,"y":0,"width":1380,"height":170,"color":"5"},
+		{"id":"cluster0","type":"text","text":"## Agent 应用工程\n\n[[新枝/知识全景/主题/Agent架构与设计|Agent架构与设计]] · 52 篇\n\n[[新枝/知识全景/主题/Context · Memory · Skills · Prompt|Context · Memory · Skills · Prompt]] · 36 篇\n\n[[新枝/知识全景/主题/MCP与工具生态|MCP与工具生态]] · 20 篇\n\n[[新枝/知识全景/主题/Multi-Agent|Multi-Agent]] · 10 篇\n\n[[新枝/知识全景/主题/Harness · ClaudeCode · AICoding|Harness · ClaudeCode · AICoding]] · 53 篇\n\n[[新枝/知识全景/主题/Agent评估与可观测|Agent评估与可观测]] · 36 篇\n\n[[新枝/知识全景/主题/RAG与检索|RAG与检索]] · 17 篇\n\n","x":0,"y":240,"width":420,"height":470,"color":"4"},
+		{"id":"hub0","type":"text","text":"### 跨主题入口\n\n[[新枝/知识全景/关键词/Agent架构|Agent架构]] · 210 篇\n\n[[新枝/知识全景/关键词/Harness|Harness]] · 39 篇\n\n[[新枝/知识全景/关键词/上下文工程|上下文工程]] · 132 篇\n\n[[新枝/知识全景/关键词/评估|评估]] · 97 篇\n\n[[新枝/知识全景/关键词/RAG|RAG]] · 22 篇\n\n打开关键词页 → 查看两层局部关系图","x":0,"y":790,"width":420,"height":330,"color":"4"},
+		{"id":"cluster1","type":"text","text":"## 技术基础与商业\n\n[[新枝/知识全景/主题/LLM · 模型 · 推理 · 训练|LLM · 模型 · 推理 · 训练]] · 31 篇\n\n[[新枝/知识全景/主题/AI · Infra · AIOps · SRE|AI · Infra · AIOps · SRE]] · 22 篇\n\n[[新枝/知识全景/主题/软件工程 · 架构 · 后端|软件工程 · 架构 · 后端]] · 49 篇\n\n[[新枝/知识全景/主题/AI趋势 · 行业 · 商业|AI趋势 · 行业 · 商业]] · 42 篇\n\n","x":480,"y":240,"width":420,"height":470,"color":"2"},
+		{"id":"hub1","type":"text","text":"### 跨主题入口\n\n[[新枝/知识全景/关键词/系统设计|系统设计]] · 106 篇\n\n[[新枝/知识全景/关键词/可靠性|可靠性]] · 83 篇\n\n[[新枝/知识全景/关键词/AI基础设施|AI基础设施]] · 56 篇\n\n[[新枝/知识全景/关键词/商业与趋势|商业与趋势]] · 45 篇\n\n[[新枝/知识全景/关键词/研发效能|研发效能]] · 19 篇\n\n打开关键词页 → 查看两层局部关系图","x":480,"y":790,"width":420,"height":330,"color":"2"},
+		{"id":"cluster2","type":"text","text":"## 职业、成长与生活\n\n[[新枝/知识全景/主题/职业 · 职场 · 求职|职业 · 职场 · 求职]] · 75 篇\n\n[[新枝/知识全景/主题/成长 · 方法 · 效率 · 表达|成长 · 方法 · 效率 · 表达]] · 68 篇\n\n[[新枝/知识全景/主题/人文 · 阅读 · 生活|人文 · 阅读 · 生活]] · 39 篇\n\n[[新枝/知识全景/主题/网页索引与碎片|网页索引与碎片]] · 65 篇\n\n[[新枝/知识全景/主题/待核查|待核查]] · 28 篇\n\n","x":960,"y":240,"width":420,"height":470,"color":"6"},
+		{"id":"hub2","type":"text","text":"### 跨主题入口\n\n[[新枝/知识全景/关键词/职业发展|职业发展]] · 103 篇\n\n[[新枝/知识全景/关键词/学习与知识管理|学习与知识管理]] · 83 篇\n\n[[新枝/知识全景/关键词/表达与写作|表达与写作]] · 117 篇\n\n[[新枝/知识全景/关键词/效率与习惯|效率与习惯]] · 171 篇\n\n[[新枝/知识全景/关键词/心理与关系|心理与关系]] · 70 篇\n\n打开关键词页 → 查看两层局部关系图","x":960,"y":790,"width":420,"height":330,"color":"6"}
+	],
+	"edges":[
+		{"id":"overview-0","fromNode":"overview","fromSide":"bottom","toNode":"cluster0","toSide":"top","toEnd":"none","color":"4"},
+		{"id":"hub-0","fromNode":"cluster0","fromSide":"bottom","toNode":"hub0","toSide":"top","toEnd":"none","label":"关键词导航","color":"4"},
+		{"id":"overview-1","fromNode":"overview","fromSide":"bottom","toNode":"cluster1","toSide":"top","toEnd":"none","color":"2"},
+		{"id":"hub-1","fromNode":"cluster1","fromSide":"bottom","toNode":"hub1","toSide":"top","toEnd":"none","label":"关键词导航","color":"2"},
+		{"id":"overview-2","fromNode":"overview","fromSide":"bottom","toNode":"cluster2","toSide":"top","toEnd":"none","color":"6"},
+		{"id":"hub-2","fromNode":"cluster2","fromSide":"bottom","toNode":"hub2","toSide":"top","toEnd":"none","label":"关键词导航","color":"6"}
+	]
+}

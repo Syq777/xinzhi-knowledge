@@ -1,0 +1,92 @@
+formulas:
+  文章: 'link(file.path, 标题)'
+filters:
+  and:
+    - file.inFolder("新枝/知识全景/文章卡")
+properties:
+  note.标题:
+    displayName: 文章标题
+views:
+  - type: table
+    name: 全部文章
+    groupBy:
+      property: note.主题
+      direction: ASC
+    order:
+      - formula.文章
+      - note.主题
+      - note.方向
+      - note.深度
+      - note.关键词
+      - note.分类状态
+      - note.原文
+  - type: table
+    name: 横向拓展
+    filters: "方向 == \"横向\""
+    groupBy:
+      property: note.主题
+      direction: ASC
+    order:
+      - formula.文章
+      - note.主题
+      - note.方向
+      - note.深度
+      - note.关键词
+      - note.分类状态
+      - note.原文
+  - type: table
+    name: 纵向钻研
+    filters: "方向 == \"纵向\""
+    groupBy:
+      property: note.主题
+      direction: ASC
+    order:
+      - formula.文章
+      - note.主题
+      - note.方向
+      - note.深度
+      - note.关键词
+      - note.分类状态
+      - note.原文
+  - type: table
+    name: 横纵结合
+    filters: "方向 == \"横纵结合\""
+    groupBy:
+      property: note.主题
+      direction: ASC
+    order:
+      - formula.文章
+      - note.主题
+      - note.方向
+      - note.深度
+      - note.关键词
+      - note.分类状态
+      - note.原文
+  - type: table
+    name: 深度候选
+    filters: "深度 == \"D3-深度候选\""
+    groupBy:
+      property: note.主题
+      direction: ASC
+    order:
+      - formula.文章
+      - note.主题
+      - note.方向
+      - note.深度
+      - note.关键词
+      - note.分类状态
+      - note.原文
+  - type: table
+    name: 信息不足
+    filters: "深度 == \"D0-信息不足\""
+    groupBy:
+      property: note.主题
+      direction: ASC
+    order:
+      - formula.文章
+      - note.主题
+      - note.方向
+      - note.深度
+      - note.关键词
+      - note.分类状态
+      - note.原文
